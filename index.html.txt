@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<div style="background-color:red; box-shadow: 5px 10px #333333; border: 2x solid black; border-radius: 15px; padding:10px 20px; text-align:center; margin: 200px;  background-color: #ff0093; width:70px; font-family:verdana; font-weight:bold; color:white;" > BOTÃO </div>
+
+
+</body>
+</html>
